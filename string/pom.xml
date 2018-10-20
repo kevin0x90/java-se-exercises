@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.k3v1n</groupId>
-    <artifactId>speek-like-a-chinese</artifactId>
+    <artifactId>java-se-exercises</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
